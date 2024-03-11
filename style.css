@@ -138,3 +138,7 @@ header h1 {
     width: 100%;
   }
 }
+
+.note {
+  background-image: url(https://github.com/Jwanchito/shopping-list-vite/src/images/note.png);
+}
